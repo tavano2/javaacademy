@@ -1,1 +1,1 @@
-# javaacademy
+# javaAcademy
